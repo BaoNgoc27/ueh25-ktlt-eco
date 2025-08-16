@@ -1,0 +1,23 @@
+{
+    "created_at": "Wed Sep 26 07:38:05 +0000 2018",
+    "id": 11,
+    "loc": [
+        {
+            "long": 5.3698
+        },
+        {
+            "lat": 43.2965
+        }
+    ],
+    "text": "Un tweet !",
+    "user_mentions": [
+        {
+            "id": 111,
+            "screen_name": "nom_twittos1"
+        },
+        {
+            "id": 112,
+            "screen_name": "nom_twittos2"
+        }
+    ]
+}

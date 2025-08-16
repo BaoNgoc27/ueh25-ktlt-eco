@@ -1,0 +1,3 @@
+Bonjour, je suis un fichier au format txt.
+Je contiens plusieurs lignes.
+Trois lignes devraient suffir.

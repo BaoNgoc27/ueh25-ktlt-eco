@@ -1,0 +1,2 @@
+Characteristics of Kyrie Irving
+{'name': 'Kyrie', 'surname': 'Irving', 'date_of_birth': 1992, 'teams': ['Cleveland', 'Boston', 'Nets']}
